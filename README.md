@@ -15,7 +15,7 @@ https://www.bilibili.com/video/BV1gcpMeRE4d
 
 ## 效果展示
 
-![display4](.\展示图\Arknights_Endfield_Demo1.png)
+![Arknights_Endfield_Demo1](.\展示图\Arknights_Endfield_Demo1.png)
 
 1080P虚拟机下测试，有点小bug。
 
