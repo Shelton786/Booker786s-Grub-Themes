@@ -15,11 +15,11 @@ https://www.bilibili.com/video/BV1gcpMeRE4d
 
 ## 效果展示
 
-![Arknights_Endfield_Demo1](.\展示图\Arknights_Endfield_Demo1.png)
+![Arknights_Endfield_Demo1](https://github.com/Shelton786/Grub-Themes-Arknights_Endfield_Demo/blob/main/展示图/Arknights_Endfield_Demo1.png)
 
 1080P虚拟机下测试，有点小bug。
 
-![Arknights_Endfield_Demo2](.\展示图\Arknights_Endfield_Demo2.jpg)
+![Arknights_Endfield_Demo2](https://github.com/Shelton786/Grub-Themes-Arknights_Endfield_Demo/blob/main/展示图/Arknights_Endfield_Demo2.jpg)
 
 实机演示，似乎没什么问题了
 
